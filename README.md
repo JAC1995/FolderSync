@@ -4,9 +4,9 @@ Provided directory structure for testing is in Directory_Strucuture.zip, this ar
 
 The Test Brief is also contained within the repository.
 
-==================
-Powershell comment header
-==================
+
+**Powershell comment header**
+
 
     .SYNOPSIS
         The FolderSync.ps1 provides a one-way synchronization of two folders.
