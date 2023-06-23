@@ -1,7 +1,5 @@
 # FolderSync
 
-The Test Brief is also contained within the repository.
-
 
 **Powershell comment header**
 
