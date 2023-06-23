@@ -1,5 +1,13 @@
 # FolderSync
 
+Provided directory structure for testing is in Directory_Strucuture.zip, this archvie contains a Source file for testing as well as a file labelled 'reset' which can be used to reset the test files are changing/deleting them.
+
+The Test Brief is also contained within the repository.
+
+==================
+Powershell comment header
+==================
+
     .SYNOPSIS
         The FolderSync.ps1 provides a one-way synchronization of two folders.
 
